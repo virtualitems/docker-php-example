@@ -1,0 +1,1 @@
+docker run --rm -p 8000:80 -it virtualitems/dockerapp:1.0.0 /bin/bash
